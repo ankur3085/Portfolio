@@ -64,7 +64,7 @@ nav a {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url('../splash.jpg') repeat-y center center fixed;
+  background: url('splash.jpg') repeat-y center center fixed;
   background-size: cover;
   z-index: 0;
   animation: elevator-animation 20s linear infinite;
