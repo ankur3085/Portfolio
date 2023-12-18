@@ -193,7 +193,7 @@ left: 50%;
 transform: translateX(-50%);
 width: 100vw;
 height: 100vh;
-background: url('/images/splash.jpg') repeat-y center center fixed;
+background: url('splash.jpg') repeat-y center center fixed;
 background-size: cover;
 z-index: 0;
 animation: elevator-animation 20s linear infinite; 
